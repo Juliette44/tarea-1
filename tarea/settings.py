@@ -55,7 +55,7 @@ ROOT_URLCONF = 'tarea.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ["C:/Users/jmual/Desktop/Tarea/tarea/Plantillas"],
+        'DIRS': ["C:/Users/jmual/Desktop/Tarea - copia/tarea/Plantillas"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
